@@ -112,8 +112,6 @@ The workshop program will be announced later.
 
 # Call for Contributions
 
-**Please use the [EasyChair Submission System](https://easychair.org/my/conference?conf=umap2025) to submit your contributions, selecting the "HyPer- Hybrid AI for Human-Centric Personalization" track.** An international panel of experts will review all submissions.
-
 The Hyper workshop aims to bridge the gap between sub-symbolic learning (e.g., neural networks) and symbolic knowledge representations (e.g., knowledge graphs, ontologies, logic-based models) to develop hybrid user models that better reflect human cognitive processes, social behaviors, and decision-making patterns.
  
 We invite research papers (short and long), extended abstracts, and position papers relevant to the workshop topics, which include, but are not limited to:
@@ -128,7 +126,9 @@ Domain-specific implementations of hybrid AI models (e.g., e-learning, healthcar
 We welcome three types of **submissions**:
 1. **Full research papers** describing mature research results relevant to the workshop topics. *Up to **10** pages (including references)*.
 2. **Work-in-progress and Demo Papers** describing ongoing research, preliminary research results, or demonstrations relevant to the workshop topics. *Up to **6** pages (including references)*.
-3. **Position and Perspective Papers**, e.g. position, discussion, reflection, or perspective papers on the workshop topics. *Up to **4** pages (including references, if needed)*.
+3. **Position and Perspective Papers**, including position, discussion, reflection, and perspective papers on the workshop topics. *Up to **4** pages (including references, if needed)*.
+
+**Please use the [EasyChair Submission System](https://easychair.org/my/conference?conf=umap2025) to submit your contributions, selecting the _"HyPer- Hybrid AI for Human-Centric Personalization"_ track.** An international panel of experts will review all submissions.
 
 Papers must be formatted according to the new workflow for ACM publications. All accepted papers will be published by ACM and will be available via the ACM Digital Library. At least one author of each accepted paper must register for the particular workshop and present the paper there.
 
