@@ -26,8 +26,8 @@ baseurl: "/hyper" # the subpath of your site, e.g. /blog
 url: "https://aisocietylab.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 copyright_url: "https://aisocietylab.github.io/hyper"
 repository: "aisocietylab/hyper"
-#twitter_username: jekyllrb
-#github_username:  jekyll
+
+google_site_verification: "ooybSyW3rFPTrZNzKQXcXpzqjJLKOF601dUhOGuQljQ"
 
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.26.2"
