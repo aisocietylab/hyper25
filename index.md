@@ -2,11 +2,15 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-title: 'HyPer Workshop:'
+title: 'HyPer Workshop'
 subtitle: "<span>Hy</span>brid AI for Human-Centric <span>Per</span>sonalization"
 
 # TODO: set exact location (hall, room, etc.)
 excerpt: "June **TBD** @ UMAP2025 <a href='https://maps.app.goo.gl/FHEycRok827LTcJh8'>Verizon Executive Education Center</a>"
+keywords: "HyPer, UMAP, Workshop, Hybrid AI, Explainability, User Modeling, Fairness, Bias, Cognitive Modeling, Knowledge Graphs, Machine Learning, Symbolic AI, Sub-Symbolic AI"
+description: "The HyPer workshop focuses on how hybrid AI approaches can foster more explainable and personalized user experiences."
+
+google_site_verification: "ooybSyW3rFPTrZNzKQXcXpzqjJLKOF601dUhOGuQljQ"
 
 # TODO: create new layout for workshops
 layout: workshop
