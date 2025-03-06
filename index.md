@@ -129,28 +129,28 @@ Paper lengths and formats, link to the submission system, and program committee 
 <div class="image_collection">
   <div class="image_with_text">
     <a href="https://elisabethlex.info/">
-      <img src="{{ '/assets/images/organizers/elisabeth-lex.jpg' | relative_url }}" alt="Elisabeth Lex" title="Elisabeth Lex">
+      <img src="{{ '/assets/images/organizers/elisabeth-lex.webp' | relative_url }}" alt="Elisabeth Lex" title="Elisabeth Lex">
     </a>
     <a href="https://elisabethlex.info/" class="image_title">Elisabeth Lex</a>
     <a href="https://www.tugraz.at/institute/hcc/research/research-groups/ai-for-society">Graz University of Technology</a>
   </div>
   <div class="image_with_text">
     <a href="https://kev-inn.github.io/">
-      <img src="{{ '/assets/images/organizers/kevin-innerebner.jpg' | relative_url }}" alt="Kevin Innerebner" title="Kevin Innerebner">
+      <img src="{{ '/assets/images/organizers/kevin-innerebner.webp' | relative_url }}" alt="Kevin Innerebner" title="Kevin Innerebner">
     </a>
     <a href="https://kev-inn.github.io/" class="image_title">Kevin Innerebner</a>
     <a href="https://www.tugraz.at/institute/hcc/research/research-groups/ai-for-society">Graz University of Technology</a>
   </div>
   <div class="image_with_text">
     <a href="https://markotkalcic.com/">
-      <img src="{{ '/assets/images/organizers/marko-tkalcic.jpg' | relative_url }}" alt="Marko Tkalčič" title="Marko Tkalčič">
+      <img src="{{ '/assets/images/organizers/marko-tkalcic.webp' | relative_url }}" alt="Marko Tkalčič" title="Marko Tkalčič">
     </a>
     <a href="https://markotkalcic.com/" class="image_title">Marko Tkalčič</a>
     <a href="https://www.famnit.upr.si/en/">University of Primorska</a>
   </div>
   <div class="image_with_text">
     <a href="https://domkowald.github.io/">
-      <img src="{{ '/assets/images/organizers/dominik-kowald.jpg' | relative_url }}" alt="Dominik Kowald" title="Dominik Kowald">
+      <img src="{{ '/assets/images/organizers/dominik-kowald.webp' | relative_url }}" alt="Dominik Kowald" title="Dominik Kowald">
     </a>
     <a href="https://domkowald.github.io/" class="image_title">Dominik Kowald</a>
     <a href="https://www.know-center.at/en/research/research-at-the-know-center/fair-ai/">Know Center Research GmbH</a>
@@ -159,7 +159,7 @@ Paper lengths and formats, link to the submission system, and program committee 
   </div>
   <div class="image_with_text">
     <a href="http://www.mschedl.eu/">
-      <img src="{{ '/assets/images/organizers/markus-schedl.jpg' | relative_url }}" alt="Markus Schedl" title="Markus Schedl">
+      <img src="{{ '/assets/images/organizers/markus-schedl.webp' | relative_url }}" alt="Markus Schedl" title="Markus Schedl">
     </a>
     <a href="http://www.mschedl.eu/" class="image_title">Markus Schedl</a>
     <a href="https://www.jku.at/en/institute-of-computational-perception/">Johannes Kepler University Linz</a>
