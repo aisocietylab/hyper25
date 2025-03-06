@@ -126,9 +126,9 @@ We invite research papers (short and long), extended abstracts, and position pap
 Domain-specific implementations of hybrid AI models (e.g., e-learning, healthcare, finance, music)
 
 We welcome three types of **submissions**:
-1. **Full research papers** describing mature research results relevant to the workshop topics. *Up to ten pages (including references)*.
-2. **Work-in-progress and Demo Papers** describing ongoing research, preliminary research results, or demonstrations relevant to the workshop topics. *Up to six pages (including references)*.
-3. **Position and Perspective Papers**, e.g. position, discussion, reflection, or perspective papers on the workshop topics. *Up to four pages (including references, if needed)*.
+1. **Full research papers** describing mature research results relevant to the workshop topics. *Up to **10** pages (including references)*.
+2. **Work-in-progress and Demo Papers** describing ongoing research, preliminary research results, or demonstrations relevant to the workshop topics. *Up to **6** pages (including references)*.
+3. **Position and Perspective Papers**, e.g. position, discussion, reflection, or perspective papers on the workshop topics. *Up to **4** pages (including references, if needed)*.
 
 All submissions should be prepared according to the [CEUR-WS formatting instructions](http://ceur-ws.org/Vol-XXX/CEURART.zip). If you use Overleaf, you can directly access the template [here](https://www.overleaf.com/latex/templates/template-for-submissions-to-ceur-workshop-proceedings-ceur-ws-dot-org/wqyfdgftmcfw).
 
