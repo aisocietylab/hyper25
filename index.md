@@ -27,6 +27,8 @@ locale: "en-US"
 Hybrid AI, which integrates symbolic and sub-symbolic methods, has emerged as a promising paradigm for advancing human-centric personalization. By combining machine learning with structured knowledge representations, hybrid AI enables interpretable and adaptive user models that account for complex human factors such as biases, mental models, and affective states. 
 The HyPer workshop focuses on how hybrid AI approaches—combining neural architectures, symbolic representations, and cognitive/behavioral frameworks—can foster more explainable and personalized user experiences. Specifically, we aim to explore innovative applications of hybrid AI in personalization, bridging the gap between explainability, cognitive modeling, and automated adaptation to user preferences. The HyPer workshop will provide a venue for researchers and practitioners to discuss the latest advancements, challenges, and future directions in this interdisciplinary field.
 
+<!--The workshop proposal can be found [here]({{ '/assets/pdfs/UMAP_25__Hybrid_User_Models.pdf' | relative_url }}).-->
+
 # Important Dates
 
 <table>
@@ -39,7 +41,7 @@ The HyPer workshop focuses on how hybrid AI approaches—combining neural archit
   <tbody>
     <tr>
       <td>Submission Site Open</td>
-      <td><strong>TBD</strong></td>
+      <td>March 6, 2025</td>
     </tr>
     <tr>
       <td>Paper Submissions</td>
@@ -110,6 +112,8 @@ The workshop program will be announced later.
 
 # Call for Contributions
 
+**Please use the [EasyChair Submission System](https://easychair.org/my/conference?conf=umap2025) to submit your contributions.**
+
 The Hyper workshop aims to bridge the gap between sub-symbolic learning (e.g., neural networks) and symbolic knowledge representations (e.g., knowledge graphs, ontologies, logic-based models) to develop hybrid user models that better reflect human cognitive processes, social behaviors, and decision-making patterns.
  
 We invite research papers (short and long), extended abstracts, and position papers relevant to the workshop topics, which include, but are not limited to:
@@ -120,8 +124,13 @@ We invite research papers (short and long), extended abstracts, and position pap
 - Methods for detecting and mitigating biases and unfairness in hybrid AI, e.g., by using symbolic approaches such as counterfactual fairness
 - Behavioral data analysis and user studies of cognitively-inspired modeling approaches
 Domain-specific implementations of hybrid AI models (e.g., e-learning, healthcare, finance, music)
- 
-Paper lengths and formats, link to the submission system, and program committee members will be announced later.
+
+We welcome three types of **submissions**:
+1. **Full research papers** describing mature research results relevant to the workshop topics. *Up to ten pages (including references)*.
+2. **Work-in-progress and Demo Papers** describing ongoing research, preliminary research results, or demonstrations relevant to the workshop topics. *Up to six pages (including references)*.
+3. **Position and Perspective Papers**, e.g. position, discussion, reflection, or perspective papers on the workshop topics. *Up to four pages (including references, if needed)*.
+
+All submissions should be prepared according to the [CEUR-WS formatting instructions](http://ceur-ws.org/Vol-XXX/CEURART.zip). If you use Overleaf, you can directly access the template [here](https://www.overleaf.com/latex/templates/template-for-submissions-to-ceur-workshop-proceedings-ceur-ws-dot-org/wqyfdgftmcfw).
 
 # Organizers
 
