@@ -130,7 +130,12 @@ We welcome three types of **submissions**:
 2. **Work-in-progress and Demo Papers** describing ongoing research, preliminary research results, or demonstrations relevant to the workshop topics. *Up to **6** pages (including references)*.
 3. **Position and Perspective Papers**, e.g. position, discussion, reflection, or perspective papers on the workshop topics. *Up to **4** pages (including references, if needed)*.
 
-All submissions should be prepared according to the [CEUR-WS formatting instructions](http://ceur-ws.org/Vol-XXX/CEURART.zip). If you use Overleaf, you can directly access the template [here](https://www.overleaf.com/latex/templates/template-for-submissions-to-ceur-workshop-proceedings-ceur-ws-dot-org/wqyfdgftmcfw).
+Papers must be formatted according to the new workflow for ACM publications. All accepted papers will be published by ACM and will be available via the ACM Digital Library. At least one author of each accepted paper must register for the particular workshop and present the paper there.
+
+The templates and instructions are available here: https://authors.acm.org/proceedings/production-information/taps-production-workflow
+
+* Overleaf (use \documentclass[manuscript, review]{acmart} in the sample-sigconf-authordraft.tex file for double-column):
+https://www.overleaf.com/gallery/tagged/acm-official#.WOuOk2e1taQ
 
 # Organizers
 
