@@ -134,7 +134,7 @@ Papers must be formatted according to the new workflow for ACM publications. All
 
 The templates and instructions are available here: https://authors.acm.org/proceedings/production-information/taps-production-workflow
 
-* Overleaf (use \documentclass[manuscript, review]{acmart} in the sample-sigconf-authordraft.tex file for double-column):
+If you work with Overleaf, you can (use \documentclass[manuscript, review]{acmart} in the sample-sigconf-authordraft.tex file for double-column):
 https://www.overleaf.com/gallery/tagged/acm-official#.WOuOk2e1taQ
 
 # Organizers
