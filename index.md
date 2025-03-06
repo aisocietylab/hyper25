@@ -112,7 +112,7 @@ The workshop program will be announced later.
 
 # Call for Contributions
 
-**Please use the [EasyChair Submission System](https://easychair.org/my/conference?conf=umap2025) to submit your contributions.**
+**Please use the [EasyChair Submission System](https://easychair.org/my/conference?conf=umap2025) to submit your contributions, selecting the "HyPer- Hybrid AI for Human-Centric Personalization" track.** An international panel of experts will review all submissions.
 
 The Hyper workshop aims to bridge the gap between sub-symbolic learning (e.g., neural networks) and symbolic knowledge representations (e.g., knowledge graphs, ontologies, logic-based models) to develop hybrid user models that better reflect human cognitive processes, social behaviors, and decision-making patterns.
  
@@ -132,10 +132,9 @@ We welcome three types of **submissions**:
 
 Papers must be formatted according to the new workflow for ACM publications. All accepted papers will be published by ACM and will be available via the ACM Digital Library. At least one author of each accepted paper must register for the particular workshop and present the paper there.
 
-The templates and instructions are available here: https://authors.acm.org/proceedings/production-information/taps-production-workflow
+The templates and instructions are available [here](https://authors.acm.org/proceedings/production-information/taps-production-workflow).
 
-If you work with Overleaf, you can (use \documentclass[manuscript, review]{acmart} in the sample-sigconf-authordraft.tex file for double-column):
-https://www.overleaf.com/gallery/tagged/acm-official#.WOuOk2e1taQ
+If you work with Overleaf, you can directly start with the template from [here](https://www.overleaf.com/latex/templates/acm-journals-primary-article-template/cpkjqttwbshg).
 
 # Organizers
 
