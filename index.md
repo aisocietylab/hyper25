@@ -124,7 +124,7 @@ We invite research papers (short and long), extended abstracts, and position pap
 Domain-specific implementations of hybrid AI models (e.g., e-learning, healthcare, finance, music)
 
 We welcome three types of **submissions**:
-1. **Full research papers** describing mature research results relevant to the workshop topics. *Up to **10** pages (including references)*.
+1. **Full research papers** describing mature research results relevant to the workshop topics. *Up to **8** pages (including references)*.
 2. **Work-in-progress and Demo Papers** describing ongoing research, preliminary research results, or demonstrations relevant to the workshop topics. *Up to **6** pages (including references)*.
 3. **Position and Perspective Papers**, including position, discussion, reflection, and perspective papers on the workshop topics. *Up to **4** pages (including references, if needed)*.
 
@@ -132,9 +132,9 @@ We welcome three types of **submissions**:
 
 Papers must be formatted according to the new workflow for ACM publications. All accepted papers will be published by ACM and will be available via the ACM Digital Library. At least one author of each accepted paper must register for the particular workshop and present the paper there.
 
-The templates and instructions are available [here](https://authors.acm.org/proceedings/production-information/taps-production-workflow).
+The templates and instructions are available [here](https://authors.acm.org/proceedings/production-information/taps-production-workflow). Use \documentclass[manuscript, review]{acmart} in the sample-sigconf-authordraft.tex file for double-column format.
 
-If you work with Overleaf, you can directly start with the template from [here](https://www.overleaf.com/latex/templates/acm-journals-primary-article-template/cpkjqttwbshg).
+If you work with Overleaf, you can directly start with the template from [here](https://www.overleaf.com/latex/templates/acm-journals-primary-article-template/cpkjqttwbshg). Use \documentclass[manuscript, review]{acmart} in the sample-sigconf-authordraft.tex file for double-column format.
 
 # Organizers
 
