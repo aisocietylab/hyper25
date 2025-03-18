@@ -27,7 +27,7 @@ locale: "en-US"
 Hybrid AI, which integrates symbolic and sub-symbolic methods, has emerged as a promising paradigm for advancing human-centric personalization. By combining machine learning with structured knowledge representations, hybrid AI enables interpretable and adaptive user models that account for complex human factors such as biases, mental models, and affective states. 
 The HyPer workshop focuses on how hybrid AI approaches—combining neural architectures, symbolic representations, and cognitive/behavioral frameworks—can foster more explainable and personalized user experiences. Specifically, we aim to explore innovative applications of hybrid AI in personalization, bridging the gap between explainability, cognitive modeling, and automated adaptation to user preferences. The HyPer workshop will provide a venue for researchers and practitioners to discuss the latest advancements, challenges, and future directions in this interdisciplinary field.
 
-<!--The workshop proposal can be found [here]({{ '/assets/pdfs/UMAP_25__Hybrid_User_Models.pdf' | relative_url }}).-->
+The workshop proposal can be found [here]({{ '/assets/pdfs/UMAP_25__Hybrid_User_Models.pdf' | relative_url }}).
 
 # Important Dates
 
@@ -123,6 +123,8 @@ We invite research papers (short and long), extended abstracts, and position pap
 - Behavioral data analysis and user studies of cognitively-inspired modeling approaches
 Domain-specific implementations of hybrid AI models (e.g., e-learning, healthcare, finance, music)
 
+### Submission Guidelines:
+
 We welcome three types of **submissions**:
 1. **Full research papers** describing mature research results relevant to the workshop topics. *Up to **8** pages (including references)*.
 2. **Work-in-progress and Demo Papers** describing ongoing research, preliminary research results, or demonstrations relevant to the workshop topics. *Up to **6** pages (including references)*.
@@ -132,9 +134,9 @@ We welcome three types of **submissions**:
 
 Papers must be formatted according to the new workflow for ACM publications. All accepted papers will be published by ACM and will be available via the ACM Digital Library. At least one author of each accepted paper must register for the particular workshop and present the paper there.
 
-The templates and instructions are available [here](https://authors.acm.org/proceedings/production-information/taps-production-workflow). Use \documentclass[manuscript, review]{acmart} in the sample-sigconf-authordraft.tex file for double-column format.
+The templates and instructions are available [here](https://authors.acm.org/proceedings/production-information/taps-production-workflow).
 
-If you work with Overleaf, you can directly start with the template from [here](https://www.overleaf.com/latex/templates/acm-journals-primary-article-template/cpkjqttwbshg). Use \documentclass[manuscript, review]{acmart} in the sample-sigconf-authordraft.tex file for double-column format.
+If you work with Overleaf, you can directly start with the template from [here](https://www.overleaf.com/latex/templates/acm-conference-proceedings-primary-article-template/wbvnghjbzwpc).
 
 # Organizers
 
