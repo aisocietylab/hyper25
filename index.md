@@ -45,11 +45,11 @@ The workshop proposal can be found [here]({{ '/assets/pdfs/UMAP_25__Hybrid_User_
     </tr>
     <tr>
       <td>Paper Submissions</td>
-      <td>April 9, 2025</td>
+      <td><del>April 9, 2025</del> <strong>April 16, 2025</strong></td>
     </tr>
     <tr>
       <td>Paper Notifications</td>
-      <td>April 28, 2025</td>
+      <td><del>April 28, 2025</del> <strong>April 30, 2025</strong></td>
     </tr>
     <tr>
       <td>Camera-ready Submission</td>
