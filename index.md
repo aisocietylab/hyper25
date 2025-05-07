@@ -138,7 +138,9 @@ The templates and instructions are available [here](https://authors.acm.org/proc
 
 If you work with Overleaf, you can directly start with the template from [here](https://www.overleaf.com/latex/templates/acm-conference-proceedings-primary-article-template/wbvnghjbzwpc).
 
-# Organizers
+# Organizers and Program Committee
+
+## Organizers
 
 <!-- NOTE: images should be resized to be ~200x200px to reduce load time -->
 <div class="image_collection">
@@ -182,3 +184,15 @@ If you work with Overleaf, you can directly start with the template from [here](
   </div>
 
 </div>
+
+## Program Committee
+
+- Florian Atzenhofer-Baumgartner, University of Graz
+- Toine Bogers, IT University of Copenhagen
+- Tomislav Duricic, Know-Center GmbH
+- Hannah Eckert, Johannes Kepler Universität Linz
+- Emanuel Lacic, Infobip
+- Peter Müllner, Know-Center GmbH
+- Julia Neidhardt, TU Vienna
+- Özlem Özgöbek, Norwegian University of Science and Technology
+- Markus Reiter-Haas, Duke University
