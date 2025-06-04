@@ -6,7 +6,7 @@ title: 'HyPer Workshop'
 subtitle: "<span>Hy</span>brid AI for Human-Centric <span>Per</span>sonalization"
 
 # TODO: set exact location (hall, room, etc.)
-excerpt: "June **TBD** @ UMAP2025 <a href='https://maps.app.goo.gl/FHEycRok827LTcJh8'>New York, USA</a>"
+excerpt: "June 16 @ UMAP2025 <a href='https://maps.app.goo.gl/FHEycRok827LTcJh8'>New York, USA</a>"
 keywords: "HyPer, UMAP, Workshop, Hybrid AI, Explainability, User Modeling, Fairness, Bias, Cognitive Modeling, Knowledge Graphs, Machine Learning, Symbolic AI, Sub-Symbolic AI"
 description: "The HyPer workshop focuses on how hybrid AI approaches can foster more explainable and personalized user experiences."
 
@@ -20,7 +20,7 @@ locale: "en-US"
 ---
 
 <!-- Explain TBD -->
-<small>**TBD**: To Be Determined</small>
+<!--<small>**TBD**: To Be Determined</small>-->
 
 # Objective
 
@@ -57,7 +57,7 @@ The workshop proposal can be found [here]({{ '/assets/pdfs/UMAP_25__Hybrid_User_
     </tr>
     <tr>
       <td>Workshop date</td>
-      <td>June <strong>TBD</strong>, 2025</td>
+      <td><strong>June 16, 2025</strong></td>
     </tr>
   </tbody>
 </table>
@@ -66,33 +66,90 @@ The workshop proposal can be found [here]({{ '/assets/pdfs/UMAP_25__Hybrid_User_
 
 # Program
 
-The workshop program will be announced later.
+<!--
+Session I: 9:00 AM – 10:30 AM
+------------------------------------------
+09:00 - 09:10 | Opening Remarks
+ 
+09:10 - 09:35 | Paper #340 - Towards a Hybrid Framework for Motion Representation and Analysis based on Labanotation and LMA (LONG)
+ 
+09:35 - 09:50 | Paper #321 - Differentiable Fuzzy Neural Networks for Recommender Systems (SHORT)
+ 
+09:50 - 10:15 | Paper #337 - The Impact of Confidence Ratings on User Trust in Large Language Models (LONG)
+ 
+10:15 - 10:30 | Paper #260 - Procedural Memory is not All You Need: Bridging Cognitive Gaps in LLM-Based Agents (SHORT)
+ 
+ 
+Break: 10:30 – 11:00 AM
+ 
+ 
+Session II: 11:00 AM – 12:30 PM
+------------------------------------------
+11:00 - 11:25 | Paper #339 - User Orientations and Stage-Specific Behaviors in E-commerce Exploratory Search: A Formative Study (LONG)
+ 
+11:25 - 11:50 | Paper #271 - The Potential of AutoML for Recommender Systems (LONG)
+ 
+11:50 - 12:05 | Paper #335 - Hybrid Personalization Using Declarative and Procedural Memory Modules of the Cognitive Architecture ACT-R (SHORT)
+ 
+12:05 - 12:20 | Paper #232 - Building Human-AI Reliance Through Cognitive Engagement and Exploratory AI Assistance (SHORT)
+ 
+12:20 - 12:30 | Closing Remarks
+-->
 
-<!--<table>
+<table>
   <thead>
     <tr>
-      <th>Time (EDT)</th>
+      <th style="width:15%">Time (EDT)</th>
       <th>Session</th>
-      <th>Event and Presenters</th>
+      <!--<th>Event and Presenters</th>-->
     </tr>
   </thead>
   <tbody>
     <tr class="special">
-      <td>11:11 am - 11:11 am</td>
-      <td>OPENING</td>
-      <td>-</td>
+      <td>09:00 - 09:10</td>
+      <td>Opening Remarks</td>
     </tr>
     <tr class="presentation">
-      <td>11:11 am - 11:11 am</td>
-      <td>TBD</td>
-      <td>TBD</td>
+      <td>09:10 - 09:35</td>
+      <td>Towards a Hybrid Framework for Motion Representation and Analysis based on Labanotation and LMA (Paper #340, LONG)</td>
+    </tr>
+    <tr class="presentation-alt">
+      <td>09:35 - 09:50</td>
+      <td>Differentiable Fuzzy Neural Networks for Recommender Systems (Paper #321, SHORT)</td>
+    </tr>
+    <tr class="presentation">
+      <td>09:50 - 10:15</td>
+      <td>The Impact of Confidence Ratings on User Trust in Large Language Models (Paper #337, LONG)</td>
+    </tr>
+    <tr class="presentation-alt">
+      <td>10:15 - 10:30</td>
+      <td>Procedural Memory is not All You Need: Bridging Cognitive Gaps in LLM-Based Agents (Paper #260, SHORT)</td>
     </tr>
     <tr class="break">
-      <td>11:11 am - 11:11 am</td>
-      <td>-</td>
-      <td>COFFEE BREAK</td>
+      <td>10:30 - 11:00</td>
+      <td>Break</td>
     </tr>
     <tr class="presentation">
+      <td>11:00 - 11:25</td>
+      <td>User Orientations and Stage-Specific Behaviors in E-commerce Exploratory Search: A Formative Study (Paper #339, LONG)</td>
+    </tr>
+    <tr class="presentation">
+      <td>11:25 - 11:50</td>
+      <td>The Potential of AutoML for Recommender Systems (Paper #271, LONG)</td>
+    </tr>
+    <tr class="presentation-alt">
+      <td>11:50 - 12:05</td>
+      <td>Hybrid Personalization Using Declarative and Procedural Memory Modules of the Cognitive Architecture ACT-R (Paper #335, SHORT)</td>
+    </tr>
+    <tr class="presentation-alt">
+      <td>12:05 - 12:20</td>
+      <td>Building Human-AI Reliance Through Cognitive Engagement and Exploratory AI Assistance (Paper #232, SHORT)</td>
+    </tr>
+    <tr class="special">
+      <td>12:20 - 12:30</td>
+      <td>Closing Remarks</td>
+    </tr>
+    <!--<tr class="presentation">
       <td>11:11 am - 11:11 am</td>
       <td>TBD</td>
       <td>TBD</td>
@@ -106,9 +163,17 @@ The workshop program will be announced later.
       <td>11:11 am - 11:11 am</td>
       <td>CLOSING</td>
       <td>-</td>
-    </tr>
+    </tr>-->
   </tbody>
-</table>-->
+</table>
+
+<p>
+Legend: <span class="presentation">Presentation (long paper)</span> | <span class="presentation-alt">Presentation (short paper)</span> | <span class="break">Break</span> | <span class="special">Opening & Closing</span>
+</p>
+
+
+<!-- legend -->
+
 
 # Call for Contributions
 
