@@ -66,104 +66,70 @@ The workshop proposal can be found [here]({{ '/assets/pdfs/UMAP_25__Hybrid_User_
 
 # Program
 
-<!--
-Session I: 9:00 AM – 10:30 AM
-------------------------------------------
-09:00 - 09:10 | Opening Remarks
- 
-09:10 - 09:35 | Paper #340 - Towards a Hybrid Framework for Motion Representation and Analysis based on Labanotation and LMA (LONG)
- 
-09:35 - 09:50 | Paper #321 - Differentiable Fuzzy Neural Networks for Recommender Systems (SHORT)
- 
-09:50 - 10:15 | Paper #337 - The Impact of Confidence Ratings on User Trust in Large Language Models (LONG)
- 
-10:15 - 10:30 | Paper #260 - Procedural Memory is not All You Need: Bridging Cognitive Gaps in LLM-Based Agents (SHORT)
- 
- 
-Break: 10:30 – 11:00 AM
- 
- 
-Session II: 11:00 AM – 12:30 PM
-------------------------------------------
-11:00 - 11:25 | Paper #339 - User Orientations and Stage-Specific Behaviors in E-commerce Exploratory Search: A Formative Study (LONG)
- 
-11:25 - 11:50 | Paper #271 - The Potential of AutoML for Recommender Systems (LONG)
- 
-11:50 - 12:05 | Paper #335 - Hybrid Personalization Using Declarative and Procedural Memory Modules of the Cognitive Architecture ACT-R (SHORT)
- 
-12:05 - 12:20 | Paper #232 - Building Human-AI Reliance Through Cognitive Engagement and Exploratory AI Assistance (SHORT)
- 
-12:20 - 12:30 | Closing Remarks
--->
-
 <table>
   <thead>
     <tr>
       <th style="width:15%">Time (EDT)</th>
       <th>Session</th>
-      <!--<th>Event and Presenters</th>-->
+      <th>Authors</th>
     </tr>
   </thead>
   <tbody>
     <tr class="special">
       <td>09:00 - 09:10</td>
       <td>Opening Remarks</td>
+      <td></td>
     </tr>
     <tr class="presentation">
       <td>09:10 - 09:35</td>
       <td>Towards a Hybrid Framework for Motion Representation and Analysis based on Labanotation and LMA (Paper #340, LONG)</td>
+      <td>Roberto Perez-Martinez, Alberto Casas-Ortiz and Olga C. Santos</td>
     </tr>
     <tr class="presentation-alt">
       <td>09:35 - 09:50</td>
       <td>Differentiable Fuzzy Neural Networks for Recommender Systems (Paper #321, SHORT)</td>
+      <td>Stephan Bartl, Kevin Innerebner and Elisabeth Lex</td>
     </tr>
     <tr class="presentation">
       <td>09:50 - 10:15</td>
       <td>The Impact of Confidence Ratings on User Trust in Large Language Models (Paper #337, LONG)</td>
+      <td>Lifei Wang, Natalie Friedman, Chengchao Zhu, Zeshu Zhu and S.Joy Mountford</td>
     </tr>
     <tr class="presentation-alt">
       <td>10:15 - 10:30</td>
       <td>Procedural Memory is not All You Need: Bridging Cognitive Gaps in LLM-Based Agents (Paper #260, SHORT)</td>
+      <td>Schaun Wheeler and Olivier Jeunen</td>
     </tr>
     <tr class="break">
       <td>10:30 - 11:00</td>
       <td>Break</td>
+      <td></td>
     </tr>
     <tr class="presentation">
       <td>11:00 - 11:25</td>
       <td>User Orientations and Stage-Specific Behaviors in E-commerce Exploratory Search: A Formative Study (Paper #339, LONG)</td>
+      <td>Eunhye Kim, Kiroong Choe, Guangjing Yan and Mingyu Kang</td>
     </tr>
     <tr class="presentation">
       <td>11:25 - 11:50</td>
       <td>The Potential of AutoML for Recommender Systems (Paper #271, LONG)</td>
+      <td>Tobias Vente and Joeran Beel</td>
     </tr>
     <tr class="presentation-alt">
       <td>11:50 - 12:05</td>
       <td>Hybrid Personalization Using Declarative and Procedural Memory Modules of the Cognitive Architecture ACT-R (Paper #335, SHORT)</td>
+      <td>Kevin Innerebner, Dominik Kowald, Markus Schedl and Elisabeth Lex</td>
     </tr>
     <tr class="presentation-alt">
       <td>12:05 - 12:20</td>
       <td>Building Human-AI Reliance Through Cognitive Engagement and Exploratory AI Assistance (Paper #232, SHORT)</td>
+      <td>Muhammad Raees, Vassilis-Javed Khan and Konstantinos Papangelis</td>
     </tr>
     <tr class="special">
       <td>12:20 - 12:30</td>
       <td>Closing Remarks</td>
+      <td></td>
     </tr>
-    <!--<tr class="presentation">
-      <td>11:11 am - 11:11 am</td>
-      <td>TBD</td>
-      <td>TBD</td>
-    </tr>
-    <tr class="other">
-      <td>11:11 am - 11:11 am</td>
-      <td>TBD</td>
-      <td>TBD</td>
-    </tr>
-    <tr class="special">
-      <td>11:11 am - 11:11 am</td>
-      <td>CLOSING</td>
-      <td>-</td>
-    </tr>-->
   </tbody>
 </table>
 
