@@ -22,10 +22,10 @@ title: "Hybrid AI for Human-Centric Personalization"
 email: innerebner@tugraz.at
 description: >- # this means to ignore newline"
   The HyPer workshop focuses on how hybrid AI approaches can foster more explainable and personalized user experiences.
-baseurl: "/hyper" # the subpath of your site, e.g. /blog
+baseurl: "/hyper25" # the subpath of your site, e.g. /blog
 url: "https://aisocietylab.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-copyright_url: "https://aisocietylab.github.io/hyper"
-repository: "aisocietylab/hyper"
+copyright_url: "https://aisocietylab.github.io/hyper25"
+repository: "aisocietylab/hyper25"
 
 google_site_verification: "ooybSyW3rFPTrZNzKQXcXpzqjJLKOF601dUhOGuQljQ"
 
